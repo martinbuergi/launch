@@ -691,6 +691,8 @@ export {
   loadBlock,
   loadBlocks,
   loadCSS,
+  loadHeader,
+  loadFooter,
   loadScript,
   readBlockConfig,
   sampleRUM,
